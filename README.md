@@ -1,5 +1,6 @@
 # Binary-Search-Tree-PatikaDev
-
+Binary Search Tree Project given by patika.dev in Data Structures and Algorithms section www.patika.dev
+Project : https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/binary-search-tree-proje
 
 Binary Search Tree [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] Root 7'dir.
 5, 7'den küçük olduğu için rootun soluna gelir.
