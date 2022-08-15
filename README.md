@@ -21,12 +21,5 @@ Binary Search Tree [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] Root 7'dir.
 2, 7'den ve 5'ten küçük, 1'den büyük ve 3'ten küçük olduğu için 3'ün soluna gelir.
 
 sonuç : 
-           7
-          / \
-         5   8
-        / \   \
-       1   6   9
-      / \
-     0   3                            
-        / \
-       2   4     
+
+          ![image](https://user-images.githubusercontent.com/82888052/184693614-0e925d5c-4c32-4be9-8d85-e635e867ccc3.png) 
