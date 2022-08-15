@@ -22,4 +22,7 @@ Binary Search Tree [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] Root 7'dir.
 
 sonuç : 
 
-          ![image](https://user-images.githubusercontent.com/82888052/184693614-0e925d5c-4c32-4be9-8d85-e635e867ccc3.png) 
+![image](https://user-images.githubusercontent.com/82888052/184693686-b7d53ad1-537f-4465-be66-766bc9b985e9.png)
+
+
+   
